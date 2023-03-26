@@ -1,4 +1,4 @@
-# Count# PowerPoint File Analysis Tool
+# Count PowerPoint File Analysis Tool
 
 This project provides a tool for analyzing PowerPoint files (.pptx) within a specified directory, displaying the number of slides, text boxes, slide masters, and layout masters for each file.
 
@@ -16,7 +16,7 @@ pip install python-pptx
 2. Open a command prompt or terminal and run the following command:
 
 ```sh
-python main.py
+python Count-Slide.py
 ```
 
 3. After the `Dir:` prompt appears, enter the directory containing the PowerPoint files you want to analyze and press Enter.
